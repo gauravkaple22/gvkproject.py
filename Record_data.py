@@ -101,7 +101,7 @@ class Project:
         connection = mysql.connector.connect(
             host="localhost",
             user="root",
-            password="lucifer*7812",
+            password="#########",
             database=" Data1"
         )
 
@@ -149,7 +149,7 @@ class Project:
         connection = mysql.connector.connect(
             host="localhost",
             user="root",
-            password="lucifer*7812",
+            password="#########",
             database="Data1"
         )
 
@@ -234,7 +234,7 @@ class Project:
         connection = mysql.connector.connect(
             host="localhost",
             user="root",
-            password="lucifer*7812",
+            password="#########",
             database="Data1"
         )
 
@@ -301,7 +301,7 @@ class Project:
         connection = mysql.connector.connect(
             host="localhost",
             user="root",
-            password="lucifer*7812",
+            password="##########",
             database="Data1"
         )
 
